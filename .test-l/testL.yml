@@ -1,14 +1,14 @@
 common:
  
   components:
-    - name: TestAndrii
+    - name: TestRik
       main_owner: Soft
       content_owner: N/A
     
-    - name: TestIvan
+    - name: TestMorty
       main_owner: Doc
       content_owner: Help
 
-    - name: TestJulia
+    - name: TestJeck
       main_owner: Doc
       content_owner: Help
