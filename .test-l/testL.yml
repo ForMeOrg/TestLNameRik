@@ -1,10 +1,6 @@
 common:
  
-  components:
-    - name: TestRik
-      main_owner: Soft
-      content_owner: N/A
-    
+  components:    
     - name: TestMorty
       main_owner: Doc
       content_owner: Help
