@@ -1,5 +1,4 @@
 common:
- 
   components:    
     - name: TestMorty
       main_owner: Doc
