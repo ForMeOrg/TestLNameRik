@@ -3,7 +3,6 @@ common:
     - name: TestMorty
       main_owner: Doc
       content_owner: Help
-      
     - name: TestJeck
       main_owner: Doc
       content_owner: Help
